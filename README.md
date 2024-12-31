@@ -4,11 +4,11 @@ This repository was forked and detached by [Ehsan Madadi](https://github.com/ehs
 ---
 <div align="center">
     
-![pages-build-deployment](https://github.com/MCF2-Lab/MCF2-Lab.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/MCF2-Lab/MCF2-Lab.github.io.svg)](https://github.com/MCF2-Lab/MCF2-Lab.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/MCF2-Lab/MCF2-Lab.github.io)](https://github.com/MCF2-Lab/MCF2-Lab.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/MCF2-Lab/MCF2-Lab.github.io?color=blue)](https://github.com/MCF2-Lab/MCF2-Lab.github.io/blob/master/LICENSE)
+![pages-build-deployment](https://github.com/ehsanMa86/ehsanMa86.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+[![GitHub contributors](https://img.shields.io/github/contributors/ehsanMa86/ehsanMa86.github.io.svg)](https://github.com/ehsanMa86/ehsanMa86.github.io/graphs/contributors)
+[![GitHub release](https://img.shields.io/github/v/release/ehsanMa86/ehsanMa86.github.io)](https://github.com/ehsanMa86/ehsanMa86.github.io/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/ehsanMa86/ehsanMa86.github.io?color=blue)](https://github.com/ehsanMa86/ehsanMa86.github.io/blob/master/LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/MCF2-Lab/MCF2-Lab.github.io)](https://github.com/MCF2-Lab/MCF2-Lab.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/MCF2-Lab/MCF2-Lab.github.io)](https://github.com/MCF2-Lab/MCF2-Lab.github.io/fork)
+[![GitHub stars](https://img.shields.io/github/stars/ehsanMa86/ehsanMa86.github.io)](https://github.com/ehsanMa86/ehsanMa86.github.io)
+[![GitHub forks](https://img.shields.io/github/forks/ehsanMa86/ehsanMa86.github.io)](https://github.com/ehsanMa86/ehsanMa86.github.io/fork)
 </div>
